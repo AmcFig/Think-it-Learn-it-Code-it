@@ -1,0 +1,11 @@
+
+Given an Array of integers, find all the subsets of this array.
+
+Ex1 ::  A={ 10 , 5 }
+        All Subsets
+          {} ,{10} , {5} ,{10,5}
+
+
+Ex2 ::  A= { 1,2,3 }
+        All Subsets 
+          {} ,{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}
